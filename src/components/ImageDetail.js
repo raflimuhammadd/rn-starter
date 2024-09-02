@@ -13,7 +13,7 @@ const ImageDetail = ({ imageSource, title, score }) => {
 
 const styles = StyleSheet.create({
   text: {
-    fontSize: 22
+    fontSize: 22,
   }
 })
 

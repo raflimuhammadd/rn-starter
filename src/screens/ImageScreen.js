@@ -24,11 +24,6 @@ const ImageScreen = () => {
   );
 };
 
-const styles = StyleSheet.create({
-  text: {
-    fontSize: 22
-  }
-})
 
 
 export default ImageScreen;
